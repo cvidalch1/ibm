@@ -1,5 +1,5 @@
 #FROM ace-server-dev:12.0.1.0-r2
-FROM cp.icr.io/cp/appc/ace-server@sha256:8c7a80be06567e1e535913ba4ea160000b586b1d3ff632cdad92d7aa1ee23bf6
+FROM christianvch/ibm:v1
 
 USER root
 
